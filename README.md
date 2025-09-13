@@ -66,10 +66,3 @@ pip install torch torchvision matplotlib numpy
     CNNs at a foundational level.
 -   It demonstrates **step-by-step implementation** without relying on
     pre-built CNN models.
-
-------------------------------------------------------------------------
-
-## 📜 License
-
-This repository is shared for educational purposes. Please give credit
-if you use it in your own work.
